@@ -1,2 +1,1 @@
-Print >>"Hello World"
-Print >>("Welcome to Barbie's world")
+print("I'm a Barbie girl in a Barbie's world")
