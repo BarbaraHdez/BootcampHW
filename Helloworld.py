@@ -1,0 +1,1 @@
+print("I'm a Barbie girl in a Barbie's world")
